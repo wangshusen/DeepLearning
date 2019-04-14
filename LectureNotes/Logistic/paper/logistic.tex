@@ -345,7 +345,7 @@ The $\ell_2$-norm regularized logistic regression model is
 \min_{\w \in \RB^d} \;
 \Bigg\{  
 Q (\w ; \X , \y ) \: \triangleq \:
-\frac{1}{n}  \sum_{i=1}^n \log \Big( 1 + \exp \big( - y_i \w^T x_i \big) \Big) 
+\frac{1}{n}  \sum_{i=1}^n \log \Big( 1 + \exp \big( - y_i \w^T \x_i \big) \Big) 
 \, + \, \frac{\lambda}{2} \, \| \w \|_2^2 \Bigg\} .
 \end{equation}
 In \eqref{eq:model}, the average of the $n$ terms is the loss function, 
