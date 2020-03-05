@@ -152,15 +152,15 @@ This part covers matrix completion methods and neural network approaches.
     
 9. **Deep Reinforcement Learning.** 
 
-    * Reinforcement learning [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_1.pdf)] [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/DRL/DRL.pdf)]
+    * Reinforcement learning [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_1.pdf)] [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/DRL/DRL.pdf)] [[Video (in Chinese)](https://youtu.be/vmkRMvhCW5c)]
 
-    * Value-based learning [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_2.pdf)]
+    * Value-based learning [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_2.pdf)] [[Video (in Chinese)](https://youtu.be/jflq6vNcZyA)]
 
-    * Policy-based learning [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_3.pdf)]
+    * Policy-based learning [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_3.pdf)] [[Video (in Chinese)](https://youtu.be/qI0vyfR2_Rc)]
 
-    * Actor-critic methods [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_4.pdf)]
+    * Actor-critic methods [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_4.pdf)] [[Video (in Chinese)](https://youtu.be/xjd7Jq9wPQY)]
 
-    * AlphaGo [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_5.pdf)]
+    * AlphaGo [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_5.pdf)] [[Video (in Chinese)](https://youtu.be/zHojAp5vkRE)]
 
 
 10. **Parallel Computing.** 
@@ -169,7 +169,9 @@ This part covers matrix completion methods and neural network approaches.
 	
 	* Parameter Server and Decentralized Network. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_2.pdf)] [[Video (in Chinese)](https://youtu.be/Aga2Lxp3G7M)]
 	
-	* Federated Learning. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_3.pdf)] [[Video (in Chinese)](https://youtu.be/STxtRucv_zo)]
+	* TensorFlow's Mirrored Strategy and Ring All-Reduce. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_3.pdf)] 
+	
+	* Federated Learning. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_4.pdf)] [[Video (in Chinese)](https://youtu.be/STxtRucv_zo)]
 
 
 11. **Adversarial Robustness.**
