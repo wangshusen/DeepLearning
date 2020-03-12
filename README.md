@@ -93,6 +93,9 @@ This part is focused on CNNs and its application to computer vision problems.
 4. **Recurrent neural networks (RNNs).**
 This part introduces RNNs and its applications in natural language processing (NLP).
 
+    * Categorical feature processing.
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_0.pdf)] 
+
     * Text processing.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_1.pdf)] 
        
