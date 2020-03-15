@@ -181,8 +181,12 @@ This part covers matrix completion methods and neural network approaches.
 This part introduces how to attack neural networks using adversarial examples and how to defend from the attack.
 
 	* Data evasion attack and defense.
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/11_Adversarial.pdf)]
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/11_Evasion.pdf)]
     [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Adversarial/DataAttacks.pdf)]
+
+	* Data poisoning attack.
+	 [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/11_Poisoning.pdf)]
+   
         
     * Further reading:
     [[Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)]
