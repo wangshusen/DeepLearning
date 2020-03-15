@@ -99,22 +99,28 @@ This part introduces RNNs and its applications in natural language processing (N
     * Text processing.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_1.pdf)] 
        
-    * RNN basics and LSTM.
+    * RNN basics.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_2.pdf)]
+       
+    * LSTM.
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_3.pdf)]
     [[reference](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)]
+       
+    * Making RNNs more effective.
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_4.pdf)]
    
     * Text generation.
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_3.pdf)]
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_5.pdf)]
     
     * Machine translation. 
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_4.pdf)]
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_6.pdf)]
     
     * Image caption generation. 
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_5.pdf)]
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_7.pdf)]
     [[reference](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)]
     
     * Attention. 
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_6.pdf)]
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_8.pdf)]
     [[reference-1](https://distill.pub/2016/augmented-rnns/)]
     [[reference-2](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)]
     
@@ -122,10 +128,10 @@ This part introduces RNNs and its applications in natural language processing (N
 5. **Language Models beyond RNNs.**
 
     * Transformer model: beyond RNNs. 
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_7.pdf)]
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_9.pdf)]
     [[reference](https://arxiv.org/pdf/1706.03762.pdf)]
     
-    * Pre-train Transformer using BERT. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_8.pdf)]
+    * Pre-train Transformer using BERT. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_10.pdf)]
     [[reference](https://arxiv.org/pdf/1810.04805.pdf)]
 
 
