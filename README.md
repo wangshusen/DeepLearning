@@ -168,13 +168,24 @@ This part covers matrix completion methods and neural network approaches.
 
 10. **Parallel Computing.** 
 
-	* Basics and MapReduce. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_1.pdf)] [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)] [[Video (in Chinese)](https://youtu.be/gVcnOe6_c6Q)]
+	* Basics and MapReduce. 
+	[[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_1.pdf)] 
+	[[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)] 
+	[[Video (in Chinese)](https://youtu.be/gVcnOe6_c6Q)]
 	
-	* Parameter Server and Decentralized Network. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_2.pdf)] [[Video (in Chinese)](https://youtu.be/Aga2Lxp3G7M)]
+	* Parameter Server and Decentralized Network. 
+	[[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_2.pdf)] 
+	[[Video (in Chinese)](https://youtu.be/Aga2Lxp3G7M)]
 	
-	* TensorFlow's Mirrored Strategy and Ring All-Reduce. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_3.pdf)] 
+	* TensorFlow's Mirrored Strategy and Ring All-Reduce. 
+	[[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_3.pdf)] 
+	[[Video (in Chinese)](https://youtu.be/rj-hjS5L8Bw)]
+
 	
-	* Federated Learning. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_4.pdf)] [[Video (in Chinese)](https://youtu.be/STxtRucv_zo)]
+	
+	* Federated Learning. 
+	[[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_4.pdf)] 
+	[[Video (in Chinese)](https://youtu.be/STxtRucv_zo)]
 
 
 11. **Adversarial Robustness.**
@@ -186,7 +197,8 @@ This part introduces how to attack neural networks using adversarial examples an
 
 	* Data poisoning attack.
 	 [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/11_Poisoning.pdf)]
-   
+	[[Video (in Chinese)](https://youtu.be/_K0nZcqdu5w)]
+	 
         
     * Further reading:
     [[Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)]
