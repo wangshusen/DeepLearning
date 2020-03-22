@@ -95,34 +95,40 @@ This part introduces RNNs and its applications in natural language processing (N
 
     * Categorical feature processing.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_0.pdf)] 
+	[[Video (in Chinese)](https://youtu.be/NWcShtqr8kc)]
 
-    * Text processing.
+    * Text processing and word embedding.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_1.pdf)] 
+	[[Video (in Chinese)](https://youtu.be/6_2_2CPB97s)]
        
     * RNN basics.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_2.pdf)]
+	[[Video (in Chinese)](https://youtu.be/Cc4ENs6BHQw)]
        
     * LSTM.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_3.pdf)]
     [[reference](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)]
+	[[Video (in Chinese)](https://youtu.be/vTouAvxlphc)]
        
     * Making RNNs more effective.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_4.pdf)]
+	[[Video (in Chinese)](https://youtu.be/pzWHk_M23a0)]
    
     * Text generation.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_5.pdf)]
     
     * Machine translation. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_6.pdf)]
-    
-    * Image caption generation. 
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_7.pdf)]
-    [[reference](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)]
-    
+        
     * Attention. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_8.pdf)]
     [[reference-1](https://distill.pub/2016/augmented-rnns/)]
     [[reference-2](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)]
+    
+    * Image caption generation. 
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_7.pdf)]
+    [[reference](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)]
+
     
     
 5. **Language Models beyond RNNs.**
