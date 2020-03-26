@@ -138,7 +138,8 @@ This part introduces RNNs and its applications in natural language processing (N
 5. **Language Models beyond RNNs.**
 
     * Transformer model: beyond RNNs. 
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_Transformer.pdf)]
+    [[slides-1](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_Transformer_1.pdf)]
+    [[slides-2](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_Transformer_2.pdf)]
     [[reference](https://arxiv.org/pdf/1706.03762.pdf)]
     
     * Pre-train Transformer using BERT. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_BERT.pdf)]
