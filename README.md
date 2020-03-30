@@ -120,14 +120,18 @@ This part introduces RNNs and its applications in natural language processing (N
     
     * Machine translation. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_6.pdf)]
+	[[Video (in Chinese)](https://youtu.be/gxXJ58LR684)]
         
     * Attention. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_8.pdf)]
+	[[Video (in Chinese)](https://youtu.be/XhWdv7ghmQQ)]
     [[reference-1](https://distill.pub/2016/augmented-rnns/)]
     [[reference-2](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)]
         
     * Self-Attention. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_9.pdf)]
+	[[Video (in Chinese)](https://youtu.be/Vr4UNt7X6Gw)]
+
     
     * Image caption generation. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_7.pdf)]
