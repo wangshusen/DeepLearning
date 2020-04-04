@@ -143,9 +143,11 @@ This part introduces RNNs and its applications in natural language processing (N
 
     * Transformer (1/2): attention without RNN. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_Transformer_1.pdf)]
+	[[Video (in Chinese)](https://youtu.be/aButdUV0dxI)]
     
     * Transformer (2/2): from shallow to deep. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_Transformer_2.pdf)]
+	[[Video (in Chinese)](https://youtu.be/aJRsr39F4dI)]
     [[reference](https://arxiv.org/pdf/1706.03762.pdf)]
     
     * BERT: pre-training Transformer. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_BERT.pdf)]
