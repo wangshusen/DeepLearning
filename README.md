@@ -31,7 +31,7 @@ This part briefly introduces the fundamental ML problems-- regression, classific
     [[slides-2](https://github.com/wangshusen/DeepLearning/blob/master/Slides/3_Regularizations.pdf)]
     
     * Clustering. 
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/4_Clustering.pdf)] 
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/3_Clustering.pdf)] 
     
     * Dimensionality reduction. 
     [[slides-1](https://github.com/wangshusen/DeepLearning/blob/master/Slides/5_DR_1.pdf)] 
@@ -40,6 +40,9 @@ This part briefly introduces the fundamental ML problems-- regression, classific
     
     * Scientific computing libraries.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/5_DR_3.pdf)]
+    
+    * Monte Carlo.
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/4_MC_1.pdf)]
     
     
 2. **Neural network basics.**
