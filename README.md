@@ -154,6 +154,7 @@ This part introduces RNNs and its applications in natural language processing (N
     [[reference](https://arxiv.org/pdf/1706.03762.pdf)]
     
     * BERT: pre-training Transformer. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_BERT.pdf)]
+	[[Video (in Chinese)](https://youtu.be/UlC6AjQWao8)]
     [[reference](https://arxiv.org/pdf/1810.04805.pdf)]
 
 
