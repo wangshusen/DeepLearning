@@ -43,6 +43,7 @@ This part briefly introduces the fundamental ML problems-- regression, classific
     
     * Monte Carlo.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/4_MC_1.pdf)]
+	[[Video (in Chinese)](https://youtu.be/XRGquU0ZJok)]
     
     
 2. **Neural network basics.**
@@ -225,8 +226,16 @@ This part introduces how to attack neural networks using adversarial examples an
     [[Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)]
     
 
+11. **Meta Learning.** 
 
-11. **Recommender system.** 
+    * Few-shot learning. 
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/16_Meta_1.pdf)]
+
+    * Siamese network. 
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/16_Meta_2.pdf)]
+    
+
+12. **Recommender System.** 
 This part is focused on the collaborative filtering approach to recommendation based on the user-item rating data.
 This part covers matrix completion methods and neural network approaches. 
 
