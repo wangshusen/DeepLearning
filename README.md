@@ -228,11 +228,17 @@ This part introduces how to attack neural networks using adversarial examples an
 
 11. **Meta Learning.** 
 
-    * Few-shot learning. 
+    * Few-shot learning: basic concepts. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/16_Meta_1.pdf)]
+	[[Video (in Chinese)](https://youtu.be/UkQ2FVpDxHg)]
 
     * Siamese network. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/16_Meta_2.pdf)]
+	[[Video (in Chinese)](https://youtu.be/Er8xH_k0Vj4)]
+
+    * Pretraining + fine tuning. 
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/16_Meta_3.pdf)]
+	[[Video (in Chinese)](https://youtu.be/3zSYMuDm6RU)]
     
 
 12. **Recommender System.** 
