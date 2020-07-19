@@ -187,6 +187,8 @@ This part introduces autoencoders for dimensionality reduction and image generat
 
     * AlphaGo [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_5.pdf)] [[Video (in Chinese)](https://youtu.be/zHojAp5vkRE)]
 
+    * Multi-Agent [[slides-1](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_6.pdf)]  [[slides-2](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_7.pdf)] [[Video-1](https://youtu.be/KN-XMQFTD0o) [Video-2](https://youtu.be/0HV1hsjd1y8) (in Chinese)]
+
 
 9. **Parallel Computing.** 
 
