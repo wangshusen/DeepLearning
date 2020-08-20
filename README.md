@@ -232,7 +232,7 @@ This part introduces how to attack neural networks using adversarial examples an
     * Few-shot learning: basic concepts. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/16_Meta_1.pdf)]
 	[[Video (in Chinese)](https://youtu.be/UkQ2FVpDxHg)]
-	[[Video (in English)](https://youtu.be/gAxL0zGIUTs)]
+	[[Video (in English)](https://youtu.be/hE7eGew4eeg)]
 
     * Siamese network. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/16_Meta_2.pdf)]
