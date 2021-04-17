@@ -1,6 +1,7 @@
 # CS583: Deep Learning
 
 
+
 1. **Machine learning basics.**
 This part briefly introduces the fundamental ML problems-- regression, classification, dimensionality reduction, and clustering-- and the traditional ML models and numerical algorithms for solving the problems.
 
@@ -126,12 +127,13 @@ This part introduces RNNs and its applications in natural language processing (N
         
     * Attention
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_8.pdf)]
+	[[video (English)](https://youtu.be/B3uws4cLcFw)]
 	[[video (Chinese)](https://youtu.be/XhWdv7ghmQQ)]
-    [[reference-1](https://distill.pub/2016/augmented-rnns/)]
-    [[reference-2](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)].
+    [[reference](https://distill.pub/2016/augmented-rnns/)].
         
     * Self-attention
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_9.pdf)]
+	[[video (English)](https://youtu.be/06r6kp7ujCA)]
 	[[video (Chinese)](https://youtu.be/Vr4UNt7X6Gw)].
 
     
@@ -143,17 +145,21 @@ This part introduces RNNs and its applications in natural language processing (N
     
 5. **Language Models beyond RNNs.**
 
+
     * Transformer (1/2): attention without RNN
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_Transformer_1.pdf)]
+	[[video (English)](https://youtu.be/FC8PziPmxnQ)]
 	[[video (Chinese)](https://youtu.be/aButdUV0dxI)].
     
     * Transformer (2/2): from shallow to deep
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_Transformer_2.pdf)]
+	[[video (English)](https://youtu.be/J4H6A4-dvhE)]
 	[[video (Chinese)](https://youtu.be/aJRsr39F4dI)]
    [[reference](https://arxiv.org/pdf/1706.03762.pdf)].
     
     * BERT: pre-training Transformer 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_BERT.pdf)]
+	[[video (English)](https://youtu.be/EOmd5sUUA_A)]
 	[[video (Chinese)](https://youtu.be/UlC6AjQWao8)]
    [[reference](https://arxiv.org/pdf/1810.04805.pdf)].
 
@@ -262,4 +268,8 @@ This part covers matrix completion methods and neural network approaches.
 
     * Collaborative filtering
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/15_Recommender.pdf)].
+
+
+
+
 
