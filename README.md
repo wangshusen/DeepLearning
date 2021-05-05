@@ -143,7 +143,7 @@ This part introduces RNNs and its applications in natural language processing (N
 
     
     
-5. **Language Models beyond RNNs.**
+5. **Transformer Models.**
 
 
     * Transformer (1/2): attention without RNN
@@ -162,6 +162,11 @@ This part introduces RNNs and its applications in natural language processing (N
 	[[video (English)](https://youtu.be/EOmd5sUUA_A)]
 	[[video (Chinese)](https://youtu.be/UlC6AjQWao8)]
    [[reference](https://arxiv.org/pdf/1810.04805.pdf)].
+    
+    * Vision Transformer (ViT)
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_ViT.pdf)]
+	[[video (English)](https://youtu.be/HZ4j_U3FC94)]
+	[[video (Chinese)](https://youtu.be/BbzOZ9THriY)].
 
 
 6. **Autoencoders.**
