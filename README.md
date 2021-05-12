@@ -267,12 +267,20 @@ This part introduces how to attack neural networks using adversarial examples an
 
     
 
-12. **Recommender System.** 
-This part is focused on the collaborative filtering approach to recommendation based on the user-item rating data.
-This part covers matrix completion methods and neural network approaches. 
+12. **Neural Architecture Search (NAS).** 
 
-    * Collaborative filtering
-    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/15_Recommender.pdf)].
+
+    * Basics
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/15_NAS_1.pdf)]
+	[[video (Chinese)](https://youtu.be/voWgnMpFaW8)].
+
+    * RNN + Reinforcement Learning: 
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/15_NAS_2.pdf)]
+	[[video (Chinese)](https://youtu.be/AmitvRzmvv0)].
+
+    * Differentiable NAS: 
+    [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/15_NAS_3.pdf)]
+	[[video (Chinese)](https://youtu.be/D9m9-CXw_HY)].
 
 
 
